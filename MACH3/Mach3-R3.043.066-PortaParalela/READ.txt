@@ -1,0 +1,39 @@
+﻿#####################################
+#                                   #
+#   http://www.m1automacao.com.br   #
+#                                   #
+#####################################
+
+
+Mach3 Software - Artsoft. CNC CAD CAM
+
+Linguagem: English
+Versão: R3.043.066 + CRACK (2017/2018 version)
+
+RECOMENDADO PARA WINDOWS XP, WINDOWS VISTA OU 7.
+
+
+*** Instalando no Windows XP:
+1: Instale o software através do arquivo: Mach3Version3.043.066.exe
+2: Após a instalação, se perguntar para instalar o "driver", diga SIM.
+3: Copie o arquivo: Mach1Lic.dat para o diretório de instalação C:\Mach3 --- (Now, it's CRACKED)
+4: Reinicie o sistema antes de rodar o Mach3.
+
+
+*** Instalando no Windows 7 ou VISTA:
+* RECOMENDADO WINDOWS 7 INSTALADO EM 32BITS!!! (SENÃO, TENTE INSTALAR O MACH3 EM MODO 32 BITS --- PODE NÃO FUNCIONAR!)
+
+1: PRIMEIRO abra o arquivo: memoryoverride.reg
+2: Instale o software através do arquivo: Mach3Version3.043.066.exe
+3: Após a instalação, se perguntar para instalar o "driver", diga SIM.
+4: Copie o arquivo: Mach1Lic.dat para o diretório de instalação C:\Mach3 --- (Pronto! Está CRACKEADO)
+5: Reinicie o sistema antes de rodar o Mach3.
+
+
+*** IMPORTANTE:
+SE você já tiver o Mach3 instalado em seu sistema você deve remover os Drivers!
+1: Desinstale o Mach3 através do Painel de Controle.
+2: Remove o arquivo: C:\Windows\system32\drivers\Mach3.sys (acesse: C:\WINDOWS\system32\drivers - e remova o arquivo Mach3.sys)
+3: Desinstale o driver clicando com o botão direito no ícone da área de trabalho: Meu Computador >> Propriedades >> Dispositivos
+Procure pelo driver do Mach3... ele deve estar oculto dentro do sub-menu. (clique para ampliar o menu e encontrá-lo)
+Clique com o botão direito e coloque para Desinstalar!
